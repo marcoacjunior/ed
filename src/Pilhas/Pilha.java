@@ -1,10 +1,10 @@
 package Pilhas;
 
 public class Pilha {
-    private ListaLigada lista;
+    private Ligacao lista;
 
     public Pilha(){
-        this.lista = new ListaLigada();
+        this.lista = new Ligacao();
     }
 
     public void adicionar(String novoValor){

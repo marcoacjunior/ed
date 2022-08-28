@@ -1,11 +1,11 @@
 package Pilhas;
 
-public class ListaLigada { 
+public class Ligacao { 
     private Elemento primeiro;
     private Elemento ultimo;
     private int tamanho;
 
-    public ListaLigada(){
+    public Ligacao(){
         this.tamanho = 0;
     }
 

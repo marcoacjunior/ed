@@ -73,4 +73,10 @@ public class Lista {
         }
     }
 
+
+	public void size() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

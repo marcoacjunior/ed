@@ -17,6 +17,12 @@ public class Main {
         minhaFila.enqueue(new No("ultimo"));
 
         System.out.println(minhaFila);
+        
+        //Complexidade de Espaço = O(n)
+        //Complexidade de Tempo:
+        //Adicionar = Enqueue = O(1)
+        //Remover = Dequeue = O(1)
+        //Percorrer = O(n)
 
 
     }

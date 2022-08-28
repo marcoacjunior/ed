@@ -18,5 +18,12 @@ public class Main{
         lista.remove(888);
         lista.show();
         System.out.println(lista.search(8));
+        
+        //Complexidade de Espaço = O(n)
+        //Complexidade de Tempo:
+        //Adicionar = O(1)
+        //Remover = O(1)
+        //Percorrer = O(n)
+        
     }
 }
